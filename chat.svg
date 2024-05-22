@@ -252,8 +252,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">서버개발자로 일하고 있는</text>
-    <text x="15" y="50">말린 (박소연) 입니다.</text>
+    <text x="15" y="27">인공지능학부생인</text>
+    <text x="15" y="50">손건희 입니다.</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,8 +277,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">자바나 스프링을 주로 사용하며</text>
-    <text x="15" y="50">인프라에도 관심이 많습니다 :)</text>
+    <text x="15" y="27">관심 분야는 이미지, 음성, 자율주행 입니다.</text>
+    <text x="15" y="50"주로 사용하는 언어는 python 입니다. :)</text>
   </g>
 
   <!-- typing 4 -->
@@ -299,11 +299,7 @@
 
   </g>
 
-  <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a href="https://velog.io/@soyeon207">VELOG</a> 에도 놀러오세요 !</text>
-  </g>
+
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
