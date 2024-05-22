@@ -1,8 +1,7 @@
 
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/NICESONY/NICESONY/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+<!-- 메시지 형식의 자기소개 --> 
+![https://github.com/NICESONY/NICESONY/blob/main/chat.svg](https://github.comNICESONY/NICESONY/blob/main/chat.svg)
 
 <!--내용 부분-->
 <h2 align="center">✨ Tech Stack ✨</h2>
