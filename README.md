@@ -62,8 +62,6 @@
 
 <h2 align="center">📫 Contact 📫</h2>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
@@ -84,7 +82,7 @@
 
 <br>
 
-<h2 align="center">📫 git 📫</h2>
+<h3 align="center">📫 git 📫</h3>
 <div align="center">
 
 [![SONY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NICESONY)](https://github.com/anuraghazra/github-readme-stats)
