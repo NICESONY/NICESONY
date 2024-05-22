@@ -252,8 +252,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">서버개발자로 일하고 있는</text>
-    <text x="15" y="50">말린 (박소연) 입니다.</text>
+    <text x="15" y="27">인공지능학부생 손건희입니다.</text>
+    <text x="15" y="50">관심 분야는 이미지, 음성, 자율주행 등등 입니다..</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,8 +277,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">자바나 스프링을 주로 사용하며</text>
-    <text x="15" y="50">인프라에도 관심이 많습니다 :)</text>
+    <text x="15" y="27">데이터 분석과, 모델을 적용한 웹개발을 좋아합니다.</text>
+    <text x="15" y="50">언어는 python 입니다. :)</text>
   </g>
 
   <!-- typing 4 -->
