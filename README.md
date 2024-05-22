@@ -3,7 +3,8 @@
 <!-- 메시지 형식의 자기소개 --> 
 
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 </div>
 
 
