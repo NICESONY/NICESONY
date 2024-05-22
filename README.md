@@ -2,7 +2,7 @@
 <!--타이틀 부분-->
 <!-- 메시지 형식의 자기소개 --> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%10is%20SONGUNHEE%10playground.%10&fontSize=50&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%10is%10SONGUNHEE%10playground.%10&fontSize=50&descSize=30&fontColor=ffffff&fontAlignY=40)
 
 
 <!--내용 부분-->
