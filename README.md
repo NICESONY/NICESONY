@@ -67,15 +67,13 @@
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/songunhee54263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
-## 연락처
 
 
-  ![] https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
- songunhee5426@gmail.com
+
 ## 기술스택
 
 ##대외활동
