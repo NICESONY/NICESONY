@@ -277,7 +277,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="40">데이터 분석과, 모델을 적용한 웹개발을 좋아합니다.</text>
+    <text x="15" y="27">데이터 분석과, 모델을 적용한 웹개발을 좋아합니다.</text>
     <text x="15" y="50">언어는 python 입니다. :)</text>
   </g>
 
