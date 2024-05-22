@@ -2,8 +2,10 @@
 <!--타이틀 부분-->
 <!-- 메시지 형식의 자기소개 --> 
 
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+</div>
+
 
 <!--내용 부분-->
 <h2 align="center">✨ Tech Stack ✨</h2>
