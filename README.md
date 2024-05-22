@@ -1,7 +1,9 @@
 
 <!--타이틀 부분-->
 <!-- 메시지 형식의 자기소개 --> 
-![https://github.com/NICESONY/NICESONY/blob/main/chat.svg](https://github.comNICESONY/NICESONY/blob/main/chat.svg)
+
+![https://github.com/NICESONY/NICESONY/blob/main/chat.svg](https://github.com/NICESONY/NICESONY/blob/main/chat.svg)
+
 
 <!--내용 부분-->
 <h2 align="center">✨ Tech Stack ✨</h2>
