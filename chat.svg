@@ -253,12 +253,12 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">인공지능학부생 손건희입니다.</text>
-    <text x="15" y="40">관심 분야는 이미지, 음성, 자율주행 등등 입니다..</text>
+    <text x="15" y="50">관심 분야는 이미지, 음성, 자율주행 등등 입니다..</text>
   </g>
 
   <!-- typing 3 -->
   <g transform="translate(10, 120)" class="typing-3">
-  <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+  <rect x="8.27246" width="90.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
@@ -283,7 +283,7 @@
 
   <!-- typing 4 -->
   <g transform="translate(10, 190)" class="typing-4">
-    <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
+    <rect x="8.27246" width="90.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
