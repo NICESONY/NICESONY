@@ -1,16 +1,14 @@
-## Hi there 👋
+## 연락처
+📫 songunhee5426@gmail.com
+## 기술스택
 
-<!--
-**NICESONY/NICESONY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+대외활동
+dacon 직쏘퍼즐 ai 경진대회 - 상위 10%
 
-Here are some ideas to get you started:
+cpp 코드 유사성 판단 ai 경진대회 - 상위 8%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+캐글 LLM - Detect AI Generated Text -bronze medal
+
+SSM 모델 활용한 ecg데이터 예측 논문 제1저자
+
+토익 960, 정보처리산업기사
