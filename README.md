@@ -5,7 +5,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -29,7 +29,7 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h2 align="center">📚 Studying 📚</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
@@ -38,7 +38,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h2 align="center">🛠 Tools 🛠</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -60,7 +60,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h2 align="center">📫 Contact 📫</h2>
 <div align="center">
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
@@ -73,17 +73,25 @@
 
 
 
+<br>
 
-## 기술스택
+<h2 align="center">📫 대외활동 📫</h2>
+<div align="center">
+  </a>
 
-##대외활동
+</div>
+
+
+<br>
+
+<h2 align="center">📫 git 📫</h2>
+<div align="center">
 
 [![SONY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NICESONY)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
-  
-	
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNICESONY%2F&count_bg=%23D7FA2E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  </div>
+</div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
