@@ -95,7 +95,7 @@
 
 <br>
 
-<h2 align="center">📫 대외활동 📫</h2>
+<h2 align="center">📫 대회 수상 📫</h2>
 <div align="center">
 
 
@@ -103,7 +103,23 @@
 |------|---|---|
 |2023 DSC 공유대학 자율주행 경진대회|우승|[뉴스 기사](https://mobility-ict.or.kr/news/10?sca=2309)|
 |2023 DSC 자율주행 해커톤 |최우수상|[뉴스 기사](https://www.cctoday.co.kr/news/articleView.html?idxno=2180876)|
+<!--아래 아직 못 적은거넣기 아이디어 대회, 차량 만든거 시장상이 적기 LG본선 진출-->
 
+
+</div>
+
+<br>
+
+<h2 align="center">📫 대외활동 📫</h2>
+<div align="center">
+
+
+|교육 이름| 결과/퍼센트|관련 자료 링크|
+|------|---|---|
+|2023 DATA CREATE CMAP|참여|[GITHUB]()|
+|2023 AWS DEEP RCCAR 교육|참여|[GITHUB]()|
+|2023 AWS Cloud 이용 개발 교육|참여|[GITHUB]()|
+<!--아래 아직 못 적은거넣기 아이디어 경진대회 텀블러 받은대회적기, 10% 들었던 대회-->
 
 </div>
 
