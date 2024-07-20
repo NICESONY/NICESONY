@@ -135,7 +135,7 @@
 |프로젝트 이름|프로젝트 기간|관련 자료 링크|
 |------|---|---|
 |의사파업으로 인한 어려움 지원 웹 프로젝트|2023.03.01 ~ 2023.06.31|[GITHUB 링크](https://github.com/NICESONY/SON_WEB_PROJECT_doctors-strike)|
-|충청남도 관관산업 증긴 웹 프로젝트| 2023.07.31~ 진행중|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
+|충청남도 관관산업 증진 웹 프로젝트| 2023.07.31~ 진행중|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
 
 
 </div>
