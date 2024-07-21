@@ -120,7 +120,7 @@
 |------|:---:|---|
 |2023 DATA CREATE CMAP|참여|[GITHUB]()|
 |2023 AWS DEEP RCCAR 교육|참여|[GITHUB]()|
-|2023 AWS Cloud 이용 개발 교육|참여|[GITHUB]()|
+|2024 AWS Cloud 이용 개발 교육|참여|[GITHUB]()|
 <!--아래 아직 못 적은거넣기 아이디어 경진대회 텀블러 받은대회적기, 10% 들었던 대회-->
 
 </div>
