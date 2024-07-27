@@ -43,7 +43,7 @@
 
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-  <img src="https://img.shields.io/badge/springboot-F80000?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-3DDC84?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-F7DF1E?style=for-the-badge&logo=fastapi&logoColor=white">
 
 </div>
