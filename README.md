@@ -43,7 +43,8 @@
 
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/springboot-F80000?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-F7DF1E?style=for-the-badge&logo=fastapi&logoColor=white">
 
 </div>
 
@@ -67,8 +68,11 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/amazonwebservices-F7DF1E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=F9AB00" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/eclipseide-F7DF1E.svg?style=for-the-badge&logo=eclipseide&logoColor=F9AB00" />&nbsp
+  
+  
 </div>
 
 <br>
