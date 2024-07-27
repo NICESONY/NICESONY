@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/amazonwebservices-F7DF1E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=F9AB00" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/eclipseide-F7DF1E.svg?style=for-the-badge&logo=eclipseide&logoColor=F9AB00" />&nbsp
+  <img src="https://img.shields.io/badge/eclipseide-150458.svg?style=for-the-badge&logo=eclipseide&logoColor=F9AB00" />&nbsp
   
   
 </div>
