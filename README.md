@@ -139,6 +139,7 @@
 |------|---|---|
 |의사파업으로 인한 어려움 지원 웹 프로젝트|2023.03.01 ~ 2023.06.31|[GITHUB 링크](https://github.com/NICESONY/SON_WEB_PROJECT_doctors-strike)|
 |충청남도 관광산업 증진 웹 프로젝트| 2023.07.01~ 진행중|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
+|기록 기반 장소 추천 웹 프로젝트| 2023.07.29 ~ 진행중|[GITHUB 링크]()|
 
 
 </div>
