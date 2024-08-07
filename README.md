@@ -110,7 +110,7 @@
 |------|:---:|---|
 |2023 DSC 공유대학 자율주행 경진대회|우승|[뉴스 기사](https://mobility-ict.or.kr/news/10?sca=2309)|
 |2023 DSC 자율주행 해커톤 |최우수상|[뉴스 기사](https://www.cctoday.co.kr/news/articleView.html?idxno=2180876)|
-<!--아래 아직 못 적은거넣기 아이디어 대회, 차량 만든거 시장상이 적기 LG본선 진출-->
+<!--아래 아직 못 적은거넣기 아이디어 대회, 차량 만든거 시장상// LG본선 진출-->
 
 </div>
 
@@ -126,7 +126,7 @@
 |2023 AWS DEEP RCCAR 교육|참여|[GITHUB]()|
 |2024 AWS Cloud 이용 개발 교육|참여|[GITHUB]()|
 <!--아래 아직 못 적은거넣기 아이디어 경진대회 텀블러 받은대회적기, 10% 들었던 대회-->
-
+<!--ict 경진대회 적을지 고민해보자?? -->
 </div>
 
 <br>
@@ -137,9 +137,10 @@
 
 |프로젝트 이름|프로젝트 기간|관련 자료 링크|
 |------|---|---|
-|의사파업으로 인한 어려움 지원 웹 프로젝트|2023.03.01 ~ 2023.06.31|[GITHUB 링크](https://github.com/NICESONY/SON_WEB_PROJECT_doctors-strike)|
-|충청남도 관광산업 증진 웹 프로젝트| 2023.07.01~ 2023.08.05|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
-|기록 기반 장소 추천 웹 프로젝트| 2023.07.29 ~ 진행중|[GITHUB 링크]()|
+|의사파업으로 인한 어려움 지원 웹 프로젝트|2024.03.01 ~ 2024.06.31|[GITHUB 링크](https://github.com/NICESONY/SON_WEB_PROJECT_doctors-strike)|
+|충청남도 관광산업 증진 웹 프로젝트| 2024.07.01~ 2024.08.05|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
+|기록 기반 장소 추천 웹 프로젝트| 2024.07.29 ~ 진행중|[GITHUB 링크]()|
+
 
 
 </div>
