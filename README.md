@@ -110,7 +110,11 @@
 |------|:---:|:---:|
 |2023 DSC 공유대학 자율주행 경진대회|우승|[뉴스 기사](https://mobility-ict.or.kr/news/10?sca=2309)|
 |2023 DSC 자율주행 해커톤 |최우수상|[뉴스 기사](https://www.cctoday.co.kr/news/articleView.html?idxno=2180876)|
+|DSC AWS Enterprise Linked Cloud Hackathon |우수상|[GITHUB](https://github.com/NICESONY/DSC_Car_hackathon)|
+
 <!--아래 아직 못 적은거넣기 아이디어 대회, 차량 만든거 시장상// LG본선 진출-->
+
+
 
 </div>
 
@@ -140,6 +144,7 @@
 |의사파업으로 인한 어려움 지원 웹 프로젝트|2024.03.01 ~ 2024.06.31|[GITHUB 링크](https://github.com/NICESONY/SON_WEB_PROJECT_doctors-strike)|
 |충청남도 관광산업 증진 웹 프로젝트| 2024.07.01~ 2024.08.05|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
 |기록 기반 장소 추천 웹 프로젝트| 2024.07.29 ~ 진행중|[GITHUB 링크]()|
+|응급환자 병원 연계 웹 프로젝트 | 2024.08.14 ~ 2024.08.17 |[GITHUB 링크](https://github.com/NICESONY/DSC_Car_hackathon)|
 
 
 
