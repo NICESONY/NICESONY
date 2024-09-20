@@ -141,19 +141,17 @@
 |프로젝트 이름|프로젝트 기간|관련 자료 링크|
 |------|---|:---:|
 |의사파업으로 인한 어려움 지원 웹 프로젝트|2024.03.01 ~ 2024.06.31|[GITHUB 링크](https://github.com/NICESONY/SON_WEB_PROJECT_doctors-strike)|
-|충청남도 관광산업 증진 웹 프로젝트| 2024.07.01~ 2024.08.05|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
-|기록 기반 장소 추천 웹 프로젝트| 2024.07.29 ~ 진행중|[GITHUB 링크]()|
-|응급환자 병원 연계 웹 프로젝트 | 2024.08.14 ~ 2024.08.17 |[GITHUB 링크](https://github.com/NICESONY/DSC_Car_hackathon)|
-
-
+|충청남도 자 -->
 
 </div>
 
 
 
+
+
 <br>
 
-<h3 align="center">📫 GitHub 📫</h3>
+<h2 align="center">📫 GitHub 📫</h2>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICESONY&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=48% />
