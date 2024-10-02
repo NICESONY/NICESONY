@@ -148,6 +148,7 @@
 |충청남도 관광산업 증진 웹 프로젝트| 2024.07.01~ 2024.08.05|[GITHUB 링크](https://github.com/NICESONY/AWS_Tourism_Project)|
 |기록 기반 장소 추천 웹 프로젝트| 2024.07.29 ~ 진행중|[GITHUB 링크]()|
 |응급환자 병원 연계 웹 프로젝트 | 2024.08.14 ~ 2024.08.17 |[GITHUB 링크](https://github.com/NICESONY/DSC_Car_hackathon)|
+|생성형 AI를 이용한 맞춤형 영상 콘텐츠 생성 | 2024.08.21 ~ 2024.10.17 |[GITHUB 링크](https://github.com/NICESONY/DSC_Car_hackathon)|
 
 </div>
 
