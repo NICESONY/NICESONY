@@ -116,7 +116,7 @@
 |------|:---:|:---:|
 |2023 DSCU 자율주행 경진대회|우승|[뉴스 기사](https://mobility-ict.or.kr/news/10?sca=2309)|
 |2023 DSCU 자율주행 해커톤 |최우수상|[뉴스 기사](https://www.cctoday.co.kr/news/articleView.html?idxno=2180876)|
-|2023 DSC 모빌리티 창의과학신기술 경진대회 |전자신문 사장상|[GitHub]()|
+|2023 DSC 모빌리티 창의과학신기술 경진대회 |전자신문 사장상|[GitHub](https://github.com/NICESONY/Mobility-Creative-Science-New-Technology-Competition)|
 |2023 DSC 모빌리티 분야 아이디어 설계 해커톤 대회 |동상|[GitHub]()|
 |2024 AWS Enterprise Linked Cloud Hackathon |우수상|[GITHUB](https://github.com/NICESONY/DSC_Car_hackathon)|
 |2024 SW 중심대학 에세이 공모전 |최우수상|[GITHUB](https://github.com/NICESONY/SW-essay-contest)|
