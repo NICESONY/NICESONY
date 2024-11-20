@@ -3,8 +3,6 @@
 <!-- 메시지 형식의 자기소개 --> 
 
 
-
-
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=😊Welcome!😊&desc=%20%20%20%20&descSize=30&fontColor=F7DF1E&fontAlignY=40)
