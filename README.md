@@ -143,7 +143,7 @@
 |2024 AWS Cloud 이용 개발 교육|참여|[GITHUB]()|
 |2024 DATA CREATE CMAP|참여|[GITHUB]()|
 |2024 University of Nevada, Las Vegas: UNLV, Study|참여|[GITHUB]()|
-|2024 Las Vegas, United States CES|참여|[GITHUB]()|
+|2024 Las Vegas, United States, Consumer Electronics Show : CES|참여|[GITHUB]()|
 |2024 Australian training|참여|[GITHUB]()|
 <!--아래 아직 못 적은거넣기 아이디어 경진대회 텀블러 받은대회적기, 10% 들었던 대회-->
 <!--ict 경진대회 적을지 고민해보자?? -->
