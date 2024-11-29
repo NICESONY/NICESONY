@@ -120,7 +120,8 @@
 |2024 AWS Enterprise Linked Cloud Hackathon |우수상|[GITHUB](https://github.com/NICESONY/DSC_Car_hackathon)|
 |2024 SW 중심대학 에세이 공모전 |최우수상|[GITHUB](https://github.com/NICESONY/SW-essay-contest)|
 |2024 KNU 생성형 AI 활용 콘텐츠 경진대회 |총장상|[GITHUB]()|
-
+|2024 KNU 창업경진대회 |특별상|[GITHUB]()|
+|2024 KNU 창업경진대회 |우수상|[GITHUB]()|
 
 
 
