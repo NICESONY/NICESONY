@@ -8,7 +8,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=😊Welcome!😊&desc=%20%20%20%20&descSize=30&fontColor=F7DF1E&fontAlignY=40)
 
   <h1> My name is KUNHEE SON ,My major is the artificial intelligence </h1> 
-  <h2>I'm interested in web development and creating services by adding artificial intelligence technology to that web.</h2>
+  <h2>I am interested in deriving insights through data analysis, enhancing model performance through preprocessing based on those insights, and applying the models to web platforms..</h2>
 </div>
 
 
