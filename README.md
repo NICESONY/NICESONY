@@ -124,7 +124,7 @@
 |2024 KNU 생성형 AI 활용 콘텐츠 경진대회 |총장상|[GITHUB]()|
 |2024 KNU 창업경진대회 |특별상|[GITHUB]()|
 |2024 KNU 창업경진대회 |우수상|[GITHUB]()|
-|2024 빅데이터/AI 해커톤 |대상|[GITHUB]()|
+|2024 빅데이터/AI 해커톤 |대상|[GITHUB](https://github.com/NICESONY/Global_Internships)|
 
 
 
