@@ -142,10 +142,10 @@
 
 |교육 이름| 결과/퍼센트|관련 자료 링크|
 |------|:---:|:---:|
-|2023 DATA CREATE CMAP|참여|[GITHUB]()|
+|2023 DATA CREATE CAMP|참여|[GITHUB]()|
 |2023 AWS DEEP RCCAR 교육|참여|[GITHUB]()|
 |2024 AWS Cloud 이용 개발 교육|참여|[GITHUB]()|
-|2024 DATA CREATE CMAP|참여|[GITHUB]()|
+|2024 DATA CREATE CAMP|참여|[GITHUB]()|
 |2024 University of Nevada, Las Vegas: UNLV, Study|참여|[GITHUB]()|
 |2024 Las Vegas, United States, Consumer Electronics Show : CES|참여|[GITHUB]()|
 |2024 Australian training|참여|[GITHUB]()|
