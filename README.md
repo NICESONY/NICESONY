@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp 
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp 
+
+
 </div>
 
 
@@ -33,6 +37,10 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/ROS-22303F?style=for-the-badge&logo=ros&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 
@@ -43,8 +51,6 @@
 
 <h2 align="center">📚 Studying 📚</h2>
 <div align="center">
-
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/springboot-3DDC84?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-F7DF1E?style=for-the-badge&logo=fastapi&logoColor=white">
 
@@ -85,7 +91,7 @@
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/songunhee5426@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+     src="https://img.shields.io/badge/songunhee5426@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
 
