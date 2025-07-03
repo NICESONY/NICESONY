@@ -51,8 +51,24 @@
 
 <h2 align="center">📚 Studying 📚</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/springboot-3DDC84?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-F7DF1E?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS1-22314F?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS2-00979D?style=for-the-badge&logo=ros&logoColor=white">
+
+  <!-- RViz 시각화 툴 -->
+<img src="https://img.shields.io/badge/RViz-F47822?style=for-the-badge&logo=ros&logoColor=white">
+
+<!-- Gazebo 시뮬레이터 -->
+<img src="https://img.shields.io/badge/Gazebo-364859?style=for-the-badge&logo=gazebo&logoColor=white">
+
+<!-- rosbag 로그 저장/재생 툴 -->
+<img src="https://img.shields.io/badge/rosbag-22314F?style=for-the-badge&logo=ros&logoColor=white">
+
+<!-- MoveIt! 모션 플래닝 -->
+<img src="https://img.shields.io/badge/MoveIt!-E94E1A?style=for-the-badge&logo=moveit&logoColor=white">
+
+<!-- Navigation2 (Nav2) -->
+<img src="https://img.shields.io/badge/Nav2-4CAE4A?style=for-the-badge&logo=ros&logoColor=white">
+
 
 </div>
 
