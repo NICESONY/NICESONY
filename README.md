@@ -10,7 +10,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500§ion=header&text=😊Welcome!😊&desc=%20%20%20%20&descSize=30&fontColor=F7DF1E&fontAlignY=40)
 
   <h1> My name is KUNHEE SON ,My major is the artificial intelligence </h1> 
-  <h2>I am interested in deriving insights through data analysis, enhancing model performance through preprocessing based on those insights, and applying the models to web or Roboot platforms.</h2>
+  <h2>I am interested in deriving insights through data analysis, enhancing model performance through preprocessing based on those insights, and applying the models to Roboot platforms.</h2>
 </div>
 
 
